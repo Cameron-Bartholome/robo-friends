@@ -1,3 +1,11 @@
+# Robo-Friends-App
+
+<!-- Link for badge of repostitory -->
+
+[![wakatime](https://wakatime.com/badge/github/Cameron-Bartholome/robo-friends.svg)](https://wakatime.com/badge/github/Cameron-Bartholome/robo-friends)
+
+<!-- ---------------------------------------------------------------- -->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
