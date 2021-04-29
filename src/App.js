@@ -10,6 +10,7 @@ class  App extends Component {
         this.state = {
             robots : robots,
             searchfield:''
+        
         }
     }
 
@@ -21,7 +22,7 @@ class  App extends Component {
         const filteredRobots = this.state.robots.filter(robot => {
             return robot.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
         })
-        
+
         return(
             <div className = 'tc'>
                 <h1>Robo-Friends</h1>
