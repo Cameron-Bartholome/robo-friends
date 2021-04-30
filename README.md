@@ -2,7 +2,7 @@
 
 <!-- Link for badge of repostitory -->
 
-## Time spent on Project
+#### Time spent on Project
 
 [![wakatime](https://wakatime.com/badge/github/Cameron-Bartholome/robo-friends.svg)](https://wakatime.com/badge/github/Cameron-Bartholome/robo-friends)
 
